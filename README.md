@@ -32,7 +32,7 @@
 
 ## About
 
-All project additions and edits for information uploaded, stored, and maintained on the [Boardroom Portal](https://app.boardroom.info) occur on this public Project Information repository. [These docs](https://docs.boardroom.info/integrations/getting-started) will walk you through how to add the necessary information to this repository in a few simple steps, to get your project added to the Boardroom Portal frontend and to update its details on an ongoing basis.
+All project additions and edits for information uploaded, stored, and maintained on the [Boardroom Portal](https://app.boardroom.info) occur on this public Project Information repository. [These docs](https://docs.boardroom.info/boardroom-portal-1/adding-your-project/protocol-information) will walk you through how to add the necessary information to this repository in a few simple steps, to get your project added to the Boardroom Portal frontend and to update its details on an ongoing basis.
 
 ## Development
 
@@ -68,7 +68,7 @@ $ yarn link @boardroom/protocol-info
 
 Quick Add New Protocol:
 ```sh
-$ ./scripts/add_new_protocol $protocolName $tokenContractAddress (optional) $suffix (optional) $displayName (optional)
+$ ./scripts/add_new_protocol $protocolName
 ```
 
 Run validation:

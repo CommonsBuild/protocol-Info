@@ -2,6 +2,57 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.7.2](https://github.com/boardroom-inc/protocol-Info/compare/v2.7.1...v2.7.2) (2021-09-13)
+
+
+### Bug Fixes
+
+* disable credmark events ([442cd63](https://github.com/boardroom-inc/protocol-Info/commit/442cd63dbe8dc3f067c86937375664ca1aa94209))
+
+### [2.7.1](https://github.com/boardroom-inc/protocol-Info/compare/v2.7.0...v2.7.1) (2021-09-09)
+
+## [2.7.0](https://github.com/boardroom-inc/protocol-Info/compare/v2.6.2...v2.7.0) (2021-09-09)
+
+
+### Features
+
+* add Credmark protocol ([#268](https://github.com/boardroom-inc/protocol-Info/issues/268)) ([c41169a](https://github.com/boardroom-inc/protocol-Info/commit/c41169a1e0f815c2a7ee68e26a6948b39aad4ec3))
+* add PrimeDAO project ([8646acf](https://github.com/boardroom-inc/protocol-Info/commit/8646acf4699b7b7f20bee1a7583a89a9d3144458))
+* add REtokenDAO.eth project ([1a33d6b](https://github.com/boardroom-inc/protocol-Info/commit/1a33d6bbc0077f1fb091c3c7bdcedefe73942fcf))
+
+
+### Bug Fixes
+
+* update credmark info ([10b4adc](https://github.com/boardroom-inc/protocol-Info/commit/10b4adc667a589b9342cc2c2f8a1f6af8d130313))
+* update prime dao info ([6694966](https://github.com/boardroom-inc/protocol-Info/commit/6694966f772d4ee46eabb51e4dc35c735ecd5aab))
+* update project cnames ([5f735c5](https://github.com/boardroom-inc/protocol-Info/commit/5f735c5bc88d5fc7907e27baf4299a7f1d93e55c))
+* update retoken info ([6d9d2f3](https://github.com/boardroom-inc/protocol-Info/commit/6d9d2f3d1e4f039292e905bcabef0973b8fede99))
+
+### [2.6.2](https://github.com/boardroom-inc/protocol-Info/compare/v2.6.1...v2.6.2) (2021-08-31)
+
+### [2.6.1](https://github.com/boardroom-inc/protocol-Info/compare/v2.6.0...v2.6.1) (2021-08-31)
+
+
+### Bug Fixes
+
+* update kleros description ([733d0df](https://github.com/boardroom-inc/protocol-Info/commit/733d0dfcb1cbaf1e39c18644989a3ade7b382c11))
+
+## [2.6.0](https://github.com/boardroom-inc/protocol-Info/compare/v2.5.10...v2.6.0) (2021-08-26)
+
+
+### Features
+
+* add Clean City Guild project ([0b459e1](https://github.com/boardroom-inc/protocol-Info/commit/0b459e1c982768ecb848b00070ab498b66c3b690))
+* add idlefinance ([#258](https://github.com/boardroom-inc/protocol-Info/issues/258)) ([f90e06a](https://github.com/boardroom-inc/protocol-Info/commit/f90e06aed401af5f5ada341d3a6df8d90c5d5732))
+* add Sushi project and BadgerDAO events ([25e9423](https://github.com/boardroom-inc/protocol-Info/commit/25e94238982421607cf277bdfeaaeca3832595a2))
+* add Token Engineering Commons project ([3186a91](https://github.com/boardroom-inc/protocol-Info/commit/3186a912663a8d90246d7ec920ea0d237005a2f4))
+
+
+### Bug Fixes
+
+* project formatting issues ([cca8c82](https://github.com/boardroom-inc/protocol-Info/commit/cca8c824c820d5741d925e5763ad40387d131550))
+* update tecommons event format ([4917bd9](https://github.com/boardroom-inc/protocol-Info/commit/4917bd9b3028d9d30aa691b35f88cf3f74062da5))
+
 ### [2.5.10](https://github.com/boardroom-inc/protocol-Info/compare/v2.5.9...v2.5.10) (2021-08-02)
 
 
