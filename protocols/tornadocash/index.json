@@ -1,9 +1,9 @@
 {
-  "cname": "tornadoCASH",
+  "cname": "tornadocash",
   "description": "Fully decentralized non-custodial protocol allowing private transactions",
   "path": "tornadocash",
   "type": "custom",
-  "isEnabled": true,
+  "isEnabled": false,
   "discourseForum.url": "https://torn.community/",
   "discourseForum.categoryId":"7"
 }
